@@ -3,53 +3,6 @@
 Advanced Java Programming (CSE4019) subject was offered in the winter semester of 2023-2024.
 
 
-## Setup 
-
-### Windows
-
-1. Install Java JDK from [https://www.oracle.com/java/technologies/downloads/#jdk18-windows]
-2. Download JavaFX SDK from [https://gluonhq.com/products/javafx/]
-3. Setup JAVAFX_HOME system variable 
-4. Add JavaFX modules to modulepath
-    ```bash
-    javac --module-path %JAVAFX_HOME% --add-modules javafx.controls Assignment.java
-    ```
-
-5. Run the application
-    ```bash
-    java --module-path %JAVAFX_HOME% --add-modules javafx.controls Assignment
-    ```
-
-### Linux
-
-1. Install OpenJDK from [https://openjdk.java.net/install/]
-2. Download JavaFX SDK from [https://gluonhq.com/products/javafx/] 
-3. Setup JAVAFX_HOME system variable
-4. Add JavaFX modules to modulepath
-    ```bash
-    javac --module-path $JAVAFX_HOME --add-modules javafx.controls Assignment.java
-    ```
-
-5. Run the application
-    ```bash
-    java --module-path $JAVAFX_HOME --add-modules javafx.controls Assignment
-    ```
-
-### Mac OS
-
-1. Install Oracle JDK from [https://www.oracle.com/java/technologies/downloads/#jdk18-mac]
-2. Download JavaFX SDK from [https://gluonhq.com/products/javafx/]
-3. Setup JAVAFX_HOME environment variable
-4. Add JavaFX modules to modulepath
-    ```bash
-    javac --module-path $JAVAFX_HOME --add-modules javafx.controls Assignment.java
-    ```
-
-5. Run the application
-    ```bash
-    java --module-path $JAVAFX_HOME --add-modules javafx.controls Assignment
-    ```
-
 ## Feedback 📝
 
 If you have any feedback, suggestions, or encounter any issues while using the platform, please don't hesitate to open an issue on GitHub. Your input is invaluable and helps us improve the platform for everyone.
