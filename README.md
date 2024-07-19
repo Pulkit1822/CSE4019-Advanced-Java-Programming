@@ -1,4 +1,5 @@
 # [Advanced Java Programming (CSE4019)](https://github.com/Pulkit1822/CSE4019-Advanced-Java-Programming)
+![Advanced Java Programming (CSE4019)](https://github.com/Pulkit1822/Personal-Portfolio/blob/main/public/projects/Java.jpg)
 
 Advanced Java Programming (CSE4019) subject was offered in the winter semester of 2023-2024.
 
@@ -9,7 +10,7 @@ If you have any feedback, suggestions, or encounter any issues while using the p
 
 <br/>
 <p align="center">
-  <a href="https://pulkitmathur.me/"><img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/pic.jpeg" alt="portfolio" width="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://pulkitmathur.tech/"><img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/pic.jpeg" alt="portfolio" width="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pulkitkmathur/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:pulkitmathur.me@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/pulkitkumarmathur/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="Instagram Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
