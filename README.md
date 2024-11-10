@@ -7,6 +7,12 @@
 
 Advanced Java Programming (CSE4019) subject was offered in the winter semester of 2023-2024.
 
+## Result
+
+Here are my scores:
+![Result](https://github.com/Pulkit1822/CSE4019-Advanced-Java-Programming/blob/content/result.png)
+
+
 ## Description
 
 This repository contains a collection of Java programs and projects developed as part of the Advanced Java Programming (CSE4019) course. The purpose of this project is to provide a comprehensive understanding of advanced Java concepts and their practical applications. The repository includes various examples and exercises covering topics such as GUI development, event handling, database connectivity, and more.
