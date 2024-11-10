@@ -10,7 +10,7 @@ Advanced Java Programming (CSE4019) subject was offered in the winter semester o
 ## Result
 
 Here are my scores:
-![Result](https://github.com/Pulkit1822/CSE4019-Advanced-Java-Programming/blob/content/result.png)
+![Result](https://github.com/Pulkit1822/CSE4019-Advanced-Java-Programming/blob/main/content/result.png)
 
 
 ## Description
